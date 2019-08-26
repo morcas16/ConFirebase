@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "488494346765",
+    "firebase_url": "https://confirebase-5907e.firebaseio.com",
+    "project_id": "confirebase-5907e",
+    "storage_bucket": "confirebase-5907e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488494346765:android:1451aecc6883ba34",
+        "android_client_info": {
+          "package_name": "com.example.confirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488494346765-g5b2fed4q1d5s5k193cn8vhingvbod2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.confirebase",
+            "certificate_hash": "19d3c738916c095b47f0f12dfa61131c40853360"
+          }
+        },
+        {
+          "client_id": "488494346765-0vl15mq4ou9rod9cabgrgdstvkel7m2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvKjKk5reWym_gpVQYho2-7lVcaT9FXjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488494346765-0vl15mq4ou9rod9cabgrgdstvkel7m2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
