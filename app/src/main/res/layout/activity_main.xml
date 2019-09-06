@@ -24,7 +24,10 @@
         android:layout_height="51dp"
         android:layout_marginStart="60dp"
         android:layout_marginTop="44dp"
+        android:layout_marginEnd="60dp"
         android:text="Registrar Usuario"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtPassword" />
 
@@ -39,5 +42,18 @@
         android:inputType="textPassword"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtEmail" />
+
+    <Button
+        android:id="@+id/botonLoguin"
+        android:layout_width="291dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="60dp"
+        android:text="@string/loguearse"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/botonRegistrar" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
